@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+actors.list.gz
+actresses.list.gz
+genres.list.gz
+release-dates.list.gz
+data/PyData-Calgary_Member_list*.csv
+data/cast.csv
+data/release_dates.csv
+data/titles.csv
